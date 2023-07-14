@@ -15,4 +15,10 @@ public class User {
     private String name;
 
     private String email;
+
+    System.out.println("details of user entity");
+    System.out.println("details of user entity");
+    System.out.println("details of user entity");
+    System.out.println("details of user entity");
+    System.out.println("details of user entity");
 }
